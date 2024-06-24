@@ -1,16 +1,12 @@
-## Hi there 👋
+## Salve, bem vindo ao meu perfil 💙
 
-<!--
-**mproch4/mproch4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é _*Marcos Paulo*_
+- Estudo no [Alura](https://www.alura.com)
+- Faço curso online de programações
+- Estou me desenvolvendo em linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus trabalhos e projetos!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## Caso queira entrar em contato 📫
+- rmarcospaulo200@gmail.com
+- ## Instagram : *mproch_4*
+![](https://media1.tenor.com/m/JYA0mdGQ2EMAAAAC/askedi.gif)
