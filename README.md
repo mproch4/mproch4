@@ -1,6 +1,6 @@
 # 👋 Salve, bem-vindo ao meu perfil 💙  
 
-##**Marcos Paulo**
+## **Marcos Paulo**
 
 Estudante e sempre aprendendo algo novo  
 Curto tecnologia, programação e tudo que envolve criar coisas maneiras  
