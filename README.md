@@ -4,7 +4,7 @@
 <tr>
 <td>
 
-<img src="assets/neofetch.png" width="200px"/>
+<img src="https://miro.medium.com/v2/0*A7MUqyCLvZDcHkfM.jpg" width="200px"/>
 
 </td>
 <td>
