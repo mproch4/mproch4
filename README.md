@@ -1,22 +1,25 @@
-## **Marcos Paulo**
+## 🖥️ neofetch — Marcos Paulo
 
+<table>
+<tr>
+<td>
 
+<img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fmundomecanico.com.br%2F%3Fz%3D29604682031600&psig=AOvVaw0wMGr20LUSyKVz8KkjGdt_&ust=1770302988460000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNjpoOuKwJIDFQAAAAAdAAAAABAL)"/>
 
-Estudante e Programador Júnior C# (ASP.NET Core MVC)   
-Curto tecnologia e programação 
-Em constante evolução 
+</td>
+<td>
 
----
+```txt
+@mproch4
+▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+````
 
-## Onde eu estudo e trabalho
-- [Senac](https://sp.senac.br)  
-- [BDM](https://bdm.net.br/)
-- [ENIAC](https://www.eniac.edu.br/?utm_term=&utm_campaign=%5BPMax%5D+Medicina+2025/2&utm_source=adwords&utm_medium=ppc&hsa_acc=6664519040&hsa_cam=22581822866&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=22575544539&gclid=Cj0KCQiA-YvMBhDtARIsAHZuUzJ0uVrjMUyS5FKQ8GIm2Fh-lLi0jPlYb3xOfP_flncgmxwTmR3tD1EaAsTjEALw_wcB)
----
+**<span style="color:#2196F3">IDE (Integrated Development Environment)</span>:** Visual Studio
+**<span style="color:#9C27B0">Location</span>:** Brasil, SP
+**<span style="color:#FF9800">Learning</span>:** C# (Asp.NET Core MVC), HTML, CSS, JS, 
+**<span style="color:#E91E63">Languages</span>:** EN, PT-BR
+**<span style="color:#00BCD4">Hobbies</span>:** Study, Sleep, Programming.
 
-## Rede Social
-📸 Instagram: **[@mproch_4](https://instagram.com/mproch_4)**  
-
----
-
-![](https://media1.tenor.com/m/JYA0mdGQ2EMAAAAC/askedi.gif)
+</td>
+</tr>
+</table>
