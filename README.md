@@ -4,7 +4,7 @@
 <tr>
 <td>
 
-<img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fmundomecanico.com.br%2F%3Fz%3D29604682031600&psig=AOvVaw0wMGr20LUSyKVz8KkjGdt_&ust=1770302988460000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNjpoOuKwJIDFQAAAAAdAAAAABAL)"/>
+<img src="[(https://www.google.com/url?sa=i&url=https%3A%2F%2Fmundomecanico.com.br%2F%3Fz%3D29604682031600&psig=AOvVaw0wMGr20LUSyKVz8KkjGdt_&ust=1770302988460000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNjpoOuKwJIDFQAAAAAdAAAAABAL)](https://miro.medium.com/v2/0*A7MUqyCLvZDcHkfM.jpg)"/>
 
 </td>
 <td>
