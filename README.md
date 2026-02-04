@@ -1,10 +1,10 @@
-# 👋 Salve, bem-vindo ao meu perfil 💙  
-
 ## **Marcos Paulo**
 
-Estudante e sempre aprendendo algo novo  
-Curto tecnologia, programação e tudo que envolve criar coisas maneiras  
-Em constante evolução (tipo update automático, mas sem travar)
+
+
+Estudante e Programador Júnior C# (ASP.NET Core MVC)   
+Curto tecnologia e programação 
+Em constante evolução 
 
 ---
 
