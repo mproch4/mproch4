@@ -1,4 +1,4 @@
-## 🖥️ neofetch — Marcos Paulo
+## 🔗 Marcos Paulo
 
 <table>
 <tr>
